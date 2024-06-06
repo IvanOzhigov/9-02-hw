@@ -68,7 +68,7 @@
 
 # Ответ 
 nano /etc/zabbix/zabbix_agentd.conf
-tail -f /var/log/zabbix/zabbix_agetnd.conf
+tail -f /var/log/zabbix/zabbix_agetnd.conf  
 systemctl restart zabbix-agent
 ---
 
