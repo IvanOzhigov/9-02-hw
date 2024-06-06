@@ -45,6 +45,13 @@
  
 # Ответ
 
+![alt text](https://github.com/IvanOzhigov/9-02-hw/blob/scrin/1-1.png)
+![alt text](https://github.com/IvanOzhigov/9-02-hw/blob/scrin/1-2.png)
+![alt text](https://github.com/IvanOzhigov/9-02-hw/blob/scrin/1-3.png)
+![alt text](https://github.com/IvanOzhigov/9-02-hw/blob/scrin/1-4.png)
+![alt text](https://github.com/IvanOzhigov/9-02-hw/blob/scrin/1-5.png)
+![alt text](https://github.com/IvanOzhigov/9-02-hw/blob/scrin/1-6.png)
+![alt text](https://github.com/IvanOzhigov/9-02-hw/blob/scrin/1-7.png)
 ---
  
 ### Задание 2 
@@ -67,6 +74,13 @@
 ---
 
 # Ответ 
+
+![alt text](https://github.com/IvanOzhigov/9-02-hw/blob/scrin/2-1.png)
+![alt text](https://github.com/IvanOzhigov/9-02-hw/blob/scrin/2-3.png)
+![alt text](https://github.com/IvanOzhigov/9-02-hw/blob/scrin/2-4.png)
+![alt text](https://github.com/IvanOzhigov/9-02-hw/blob/scrin/2-5.png)
+![alt text](https://github.com/IvanOzhigov/9-02-hw/blob/scrin/2-6.png)
+
 nano /etc/zabbix/zabbix_agentd.conf  
 tail -f /var/log/zabbix/zabbix_agetnd.conf  
 systemctl restart zabbix-agent
